@@ -605,8 +605,8 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>16:00–16:15</td>
-  <td class=xl66 width=251 style='width:188pt'>Near-Term Forecasting of Water
-  Reservoir Storage Capacities Using Long Short-Term Memory</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Rohli_et_al_NearTerm_Forecasting_Reservoir_Storage_LSTM.pdf">Near-Term Forecasting of Water
+  Reservoir Storage Capacities Using Long Short-Term Memory</a> <a href="assets/pdfs/Rohli_et_al_Slides.pdf">(slides)</a></td>
   <td class=xl66 width=251 style='width:188pt'>Eric Rohli (Trabus
   Technologies); Nicholas Woolsey (Trabus Technologies); David Sathiaraj
   (Trabus Technologies)*</td>
