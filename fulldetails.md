@@ -1216,9 +1216,7 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>13:30–13:45</td>
-  <td class=xl66 width=251 style='width:188pt'>Systematically Generating
-  Hierarchies of Machine-Learning Models, from Equation Discovery to Deep
-  Neural Networks</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/ML_Model_Hierarchies_Tom_Beucler_UNIL_CI_2023_Abstract.pdf">Systematically Generating Hierarchies of Machine-Learning Models, from Equation Discovery to Deep Neural Networks</a> (<a href="assets/pdfs/ML_Model_Hierarchies_Tom_Beucler_UNIL_CI_2023_Slides.pdf">slides</a>)</td>
   <td class=xl66 width=251 style='width:188pt'>Tom Beucler (University of
   Lausanne)*; Arthur Grundner (DLR); Sara Shamekh (Columbia University);
   Ryan<span style='mso-spacerun:yes'>  </span>Lagerquist (CIRA and
