@@ -1929,10 +1929,10 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>09:45–10:00</td>
-  <td class=xl66 width=251 style='width:188pt'>Statistical constraints on
-  climate model parameters using a scalable cloud-based inference framework</td>
-  <td class=xl66 width=251 style='width:188pt'>James Carzon (Carnegie Mellon
-  University)*; Bruno Abreu (University of Illinois Urbana-Champaign); Leighton
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Carzon_et_al_paper.pdf">Statistical constraints on
+  climate model parameters using a scalable cloud-based inference framework</a>)</td>
+  <td class=xl66 width=251 style='width:188pt'><b>James Carzon (Carnegie Mellon
+  University)</b>; Bruno Abreu (University of Illinois Urbana-Champaign); Leighton
   Regayre (University of Leeds); Kenneth Carslaw (University of Leeds); Lucia
   Deaconu (University of Oxford); Philip Stier (University of Oxford); Hamish
   Gordon (Carnegie Mellon University); Mikael Kuusela (Carnegie Mellon
