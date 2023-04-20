@@ -1785,8 +1785,7 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>09:00–09:15</td>
-  <td class=xl66 width=251 style='width:188pt'>Understanding cirrus clouds
-  using explainable machine learning</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Jeggle_et_al_Paper.pdf>Understanding cirrus clouds using explainable machine learning</a></td>
   <td class=xl66 width=251 style='width:188pt'>Kai Jeggle (ETH Zurich)*; David
   Neubauer (ETH Zurich); Gustau Camps-Valls (Universitat de València); Ulrike
   Lohmann (ETH Zurich)</td>
