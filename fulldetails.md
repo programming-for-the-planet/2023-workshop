@@ -1654,7 +1654,7 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>16:30–16:45</td>
-  <td class=xl66 width=251 style='width:188pt'>Pollution Tracker: Finding
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Manshausen_PollutionTracker_CI.pdf">Pollution Tracker: Finding
   industrial sources of aerosol emission in satellite imagery</td>
   <td class=xl66 width=251 style='width:188pt'>Peter Manshausen (University of
   Oxford)*; Duncan Watson-Parris (University of California San Diego); Lena
