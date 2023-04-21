@@ -2186,7 +2186,8 @@ tags will be replaced.-->
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>11:15–11:30</td>
   <td class=xl66 width=251 style='width:188pt'>Quantifying causal
-  teleconnections to drought and fire risks in Indonesian Borneo</td>
+  teleconnections to drought and fire risks in Indonesian Borneo
+  (<a href="assets/pdfs/TL_CI2023.pdf">slides</a>)</td>
   <td class=xl66 width=251 style='width:188pt'>Timothy Lam (University of
   Exeter)*; Jennifer Catto (University of Exeter); Rosa Barciela (Met Office);
   Anna Harper (University of Exeter); Peter Challenor (University of Exeter);
