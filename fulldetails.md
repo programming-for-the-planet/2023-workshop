@@ -2105,7 +2105,7 @@ tags will be replaced.-->
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
    <td colspan=3 height=20 class=xl65 style='height:15.75pt'><a name="fri9" class="sess">Friday: Session 9</a><a class='toplink' href='#top'>(Back to top)</a></td>
    </tr><tr><td></td>
-  <td class=xl66 width=251 style='width:188pt'>Chair: Marla Fuchs<span
+  <td class=xl66 width=251 style='width:188pt'>Chair: Eniko Szekely<span
   style='mso-spacerun:yes'> </span></td>
   <td class=xl66 width=251 style='width:188pt'></td>
   <td class=xl67 width=701 style='width:40vw;'></td>
