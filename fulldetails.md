@@ -797,7 +797,7 @@ tags will be replaced.-->
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>09:15–09:30</td>
   <td class=xl66 width=251 style='width:188pt'>Post-processing East African
-  precipitation forecasts using a generative machine learning model</td>
+  precipitation forecasts using a generative machine learning model (<a href="assets/pdfs/CI2023_BAntonio.pdf">slides</a>)  </td>
   <td class=xl66 width=251 style='width:188pt'>Bobby Antonio (University of
   Bristol)*; Andrew McRae (University of Oxford); Dave MacLeod (University of
   Cardiff); Fenwick Cooper (University of Oxford); John Marsham (University of
