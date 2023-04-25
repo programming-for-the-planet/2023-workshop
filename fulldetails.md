@@ -1597,7 +1597,7 @@ tags will be replaced.-->
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>16:15–16:30</td>
   <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Andersson_Paper_Environmental_Sensor_Placement_With_Convolutional_Gaussian_Neural_Processes.pdf">Environmental Sensor Placement
-  with Convolutional Gaussian Neural Processes</a></td> (<a href="assets/pdfs/Andersson_Slides_Environmental_Sensor_Placement_With_Convolutional_Gaussian_Neural_Processes.pdf">slides</a>)</td>
+  with Convolutional Gaussian Neural Processes</a> (<a href="assets/pdfs/Andersson_Slides_Environmental_Sensor_Placement_With_Convolutional_Gaussian_Neural_Processes.pdf">slides</a>)</td>
   <td class=xl66 width=251 style='width:188pt'>Tom R Andersson (British
   Antarctic Survey)*; Wessel P Bruinsma (University of Cambridge and Invenia
   Labs); Stratis Markou (University of Cambridge); James R Requeima (University
