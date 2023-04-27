@@ -1830,8 +1830,8 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>09:15–09:30</td>
-  <td class=xl66 width=251 style='width:188pt'>Clustering of causal graphs to
-  explore drivers of river discharge</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Guenther_GraphClustering.pdf">Clustering of causal graphs to
+  explore drivers of river discharge</a></td>
   <td class=xl66 width=251 style='width:188pt'>Wiebke Günther (German Aerospace
   Center)*; Peter Miersch (Helmholtz Centre for Environmental Research); Urmi
   Ninad (Technische Universität Berlin); Jakob Runge (Institute of Data
