@@ -399,8 +399,9 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>15:00–15:15</td>
-  <td class=xl66 width=251 style='width:188pt'>Short-term forecasting of
-  Typhoon rainfall with deep learning-based disaster monitoring model</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Kim_et_al_2023.pdf">Short-term forecasting of
+  Typhoon rainfall with deep learning-based disaster monitoring model</a>
+  (<a href="assets/pdfs/CI2023_presentation_doyikim.pdf">slides</a>)</td>
   <td class=xl66 width=251 style='width:188pt'>Doyi Kim (SIAnalytics)*; Yeji
   Choi (SI Analytics)</td>
   <td class=xl67 width=701 style='width:40vw;'>Accurate and reliable disaster
