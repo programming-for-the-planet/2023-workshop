@@ -1011,8 +1011,7 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>10:15–10:30</td>
-  <td class=xl66 width=251 style='width:188pt'>Machine learning emulation of a
-  local-scale UK climate model</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Addison_et_al_ML_emulation_local_scale_UK_climate_model_ext_abs.pdf">Machine learning emulation of a local-scale UK climate model</a> (<a href="assets/pdfs/Addison_et_al_ML_emulation_local_scale_UK_climate_model.pdf">slides</a>)</td>
   <td class=xl66 width=251 style='width:188pt'>Henry Addison (University of
   Bristol)*; Elizabeth Kendon (Met Office Hadley Centre); Suman Ravuri ();
   Laurence Aitchison (University of Bristol); Peter Watson (Bristol)</td>
