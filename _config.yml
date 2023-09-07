@@ -1,8 +1,8 @@
 title: Programming for the Planet
 preposition: 'at'
-description: Worksho on Programming for the Planet
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://propl23.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+description: Workshop on Programming for the Planet
+baseurl: "/2023-workshop" # the subpath of your site, e.g. /blog
+url: "https://programming-for-the-planet.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
 markdown: kramdown
