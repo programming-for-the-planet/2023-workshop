@@ -63,7 +63,7 @@ conference:
         relative_url: /submission
       - live:true
 
-      - name : "Organising Committees"
+      - name : "Committee"
         relative_url: /committee
       - live:true
 
