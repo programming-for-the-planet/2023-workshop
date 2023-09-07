@@ -16,7 +16,7 @@ layout: home
 
 <div id='logo-container'></div>
 
-## Workshop on Programming for the Planet (PROPL) 2024 colacted with POPL 2024
+## Workshop on Programming for the Planet (PROPL) co-located with POPL 2024
 
 There are simultaneous crises across the planet due to rising CO<sub>2</sub> emissions, rapid biodiversity
 loss, and desertification. Assessing progress on these complex and interlocking issues requires
