@@ -43,3 +43,9 @@ The first edition of this workshop will comprise:
 - half day of invited talks
 - half day of contributed talks (selected by the programme committee based on short abstracts)
 - half day of ‘working workshop brainstorming’’ format.
+
+# Dates
+
+- 31st October - Call for talks deadline
+- 15th November - Notification
+- 24-25th January - Workshop
