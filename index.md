@@ -48,4 +48,4 @@ The first edition of this workshop will comprise:
 
 - 31st October - Call for talks deadline
 - 15th November - Notification
-- 24-25th January - Workshop
+- 20-21st January - Workshop
